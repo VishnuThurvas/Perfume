@@ -12,7 +12,7 @@ Welcome to the **Perfume Landing Page** repository! This project is a simple and
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠 Technologies Used
 - **HTML5** 🏗️
 - **CSS3 (Hover Effects, Animations)** 🎨
 - **JavaScript (if applicable)** ⚡
@@ -34,7 +34,7 @@ perfume-landing-page/
 
 ---
 
-## 🔥 How to Run This Project
+##  How to Run This Project
 1. Clone this repository:
    ```bash
    git clone https://github.com/VishnuThurvas/Perfume

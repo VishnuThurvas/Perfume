@@ -28,7 +28,7 @@ perfume-landing-page/
 │── index.html          # Main HTML file
 │── styles.css          # CSS for styling and hover effects
 │── script.js           # JavaScript (if needed)
-│── images/             # Folder for images
+│── images              # images
 │── README.md           # Project documentation (this file)
 ```
 

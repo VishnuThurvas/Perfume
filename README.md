@@ -37,11 +37,11 @@ perfume-landing-page/
 ## 🔥 How to Run This Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/perfume-landing-page.git
+   git clone https://github.com/VishnuThurvas/Perfume
    ```
 2. Navigate into the project folder:
    ```bash
-   cd perfume-landing-page
+   cd perfume
    ```
 3. Open `index.html` in your browser.
 
